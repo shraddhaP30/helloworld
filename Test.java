@@ -1,6 +1,6 @@
 class Test
 {
-    public static void maain(string [] args)
+    public static void main(string [] args)
     {
     System.print.out("hello world");
     }
